@@ -1,2 +1,6 @@
 To be, or not to be, that is the question
+<<<<<<< HEAD
 The slings and arrows of outrageous fortune
+=======
+Whether 'tis nobler in the mind to suffer
+>>>>>>> develop
